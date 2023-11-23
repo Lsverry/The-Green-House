@@ -154,3 +154,21 @@ footer {
     padding: 12px;
     text-align: center;
 }
+
+/*Creates two rows for plants on larger screens*/
+@media screen and (min-width: 768px) {
+    .plant {
+        max-width: 44.2%;
+    }
+    #box {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+/*Add a background color on larger screens*/
+@media screen and (min-width: 1024px) {
+    body {
+        background-color: #172830;
+    }
+}
