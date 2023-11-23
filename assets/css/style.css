@@ -141,3 +141,16 @@ footer {
 #contact input[type="submit"]:hover {
     background-color: darkgreen;
 }
+
+/*Styles for the table*/
+#hours table{
+    margin: 20px auto;
+    width: 100%;
+    max-width: 800px;
+}
+
+#hours th, #hours td {
+    border: 1px solid black;
+    padding: 12px;
+    text-align: center;
+}
