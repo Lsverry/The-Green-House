@@ -1,36 +1,36 @@
 # The Green House
 The Green House is a shop that sells plants. The shop offers a wide variety of plants for people who enjoy gardening and nature. 
 Visitors will find concise information and instructions about plants. This shop is aimed at plant enthusiasts.
-![The Green House in several screen sizes](image-6.png)
+![The Green House in several screen sizes](assets/images/image-6.png)
 ## Features
 - Navigation Bar:
     - The navigation bar is easy to use and is fixed.
     - It has links to the three main sections: "Home", "Catalogue" and "Contact".
     - Users will have no problem navigating and finding the information they are looking for.
-    ![Navigation Bar](image.png)
+    ![Navigation Bar](assets/images/image.png)
 
 - Home:
     - It has a title and a welcoming paragraph.
     - It has a list citing some benefits of having plants.
     - Provides information about the address and opening hours of the shop.
-    ![Home](image-1.png)
+    ![Home](assets/images/image-1.png)
 
 - Catalogue: 
     - Displays a wide variety of plants.
     - Each plant has a concise description and care instructions.
     - It has a responsive design.
-    ![Catalogue](image-2.png)
+    ![Catalogue](assets/images/image-2.png)
 
 - Form:
     - Simple design for the user to interact easily.
     - The name, email and message require information to be sent.
-    ![Form](image-3.png)
+    ![Form](assets/images/image-3.png)
 
 - Footer: 
     - Display copyright information.
     - Icons instead of text for social networks
     - It has a responsive design on various devices. 
-    ![Footer](image-4.png)
+    ![Footer](assets/images/image-4.png)
 
 ### Testing
 - I have confirmed that all navigation links work correctly and take the user to the intended sections.
@@ -49,8 +49,10 @@ Visitors will find concise information and instructions about plants. This shop 
     - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
 - Accessibility 
     - I confirmed that the colors and fonts chosen are easy and accessible by running lighthouse in devtools:
-    ![Lighthouse test](image-5.png)
+    ![Lighthouse test](assets/images/image-5.png)
 
+### Unfixed bugs
+No unfixed bugs
 
 ## Deplyment
 - This website was deployed on GitHub pages, here are the steps:
