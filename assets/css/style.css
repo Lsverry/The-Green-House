@@ -59,3 +59,32 @@ section {
 #home > h2{
     padding-top: 141px;
 }
+
+/*Styles for the footer*/
+footer {
+    background-color: green;
+    color: white;
+    padding: 11px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+/*Styles for icons*/
+#icons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#icons a {
+    color: black;
+    font-size: 26px;
+    margin: 0 5px;
+
+}
+
+/*Change the color of icons on hover*/
+#icons a:hover {
+    color: blue;
+}
