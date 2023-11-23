@@ -88,3 +88,29 @@ footer {
 #icons a:hover {
     color: blue;
 }
+
+/*Styles for the form*/
+#contact label {
+    display: block;
+    margin-bottom: 9px;
+}
+
+#contact input, #contact textarea {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+#contact textarea {
+    height: 150px;
+}
+
+#contact input[type="submit"] {
+    background-color: green;
+    color: white;
+}
+
+#contact input[type="submit"]:hover {
+    background-color: darkgreen;
+}
