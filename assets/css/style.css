@@ -37,3 +37,25 @@ nav a {
     margin: 0 10px;
     font-weight: bold;
 }
+
+/*Change the color of links on hover*/
+nav a:hover {
+    color: gold;
+}
+
+
+/*Styles for main sections*/
+section {
+    max-width: 800px;
+    width: 95%;
+    margin: 22px auto;
+    padding: 21px;
+    background-color: white;
+    box-shadow: 0 0 10px;
+    text-align: center; 
+}
+
+/*Styles for home*/
+#home > h2{
+    padding-top: 141px;
+}
