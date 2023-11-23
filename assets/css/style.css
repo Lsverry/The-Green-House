@@ -59,10 +59,6 @@ section ul {
     list-style-type: none;
 }
 
-/*Styles for home*/
-#home > h2{
-    padding-top: 141px;
-}
 
 /*Styles for the footer*/
 footer {
@@ -153,6 +149,19 @@ footer {
     border: 1px solid black;
     padding: 12px;
     text-align: center;
+}
+
+/*Styles for home*/
+#home > h2{
+    padding-top: 141px;
+}
+
+#home ul {
+    padding: 0;
+}
+
+#home ul li {
+    margin-bottom: 10px;
 }
 
 /*Creates two rows for plants on larger screens*/
