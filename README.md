@@ -46,7 +46,7 @@ Visitors will find concise information and instructions about plants. This shop 
 - HTML
     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flsverry.github.io%2FThe-Green-House%2F)
 - CSS
-    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
+    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flsverry.github.io%2FThe-Green-House%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - Accessibility 
     - I confirmed that the colors and fonts chosen are easy and accessible by running lighthouse in devtools:
     ![Lighthouse test](assets/images/image-5.png)
@@ -59,6 +59,7 @@ No unfixed bugs
     - In the github repository you have to go to "settings".
     - Scroll down to the pages section and select the branch that contains your code.
     - GitHub Pages will generate a URL for the web page.
+Link to the website - [The Green House](https://lsverry.github.io/The-Green-House/)
   
 ## Credits
 
